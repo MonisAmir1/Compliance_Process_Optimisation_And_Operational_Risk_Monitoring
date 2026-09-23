@@ -10,7 +10,7 @@ ABC Fund is a fictional Luxembourg-based Alternative Investment Fund Manager (AI
 
 As investor onboarding volumes and regulatory oversight grew, management sought to evaluate end-to-end case processing lifecycles, identify operational bottlenecks, and eliminate SLA breach risks. This project investigates transactional audit trails covering **18,000 cases**, stage-by-stage workflow histories, and **23,478 control assessments**.
 
-The analysis focuses on identifying where operational inertia originates—pinpointing stage bottlenecks, evaluating control check remediation cycle times, detecting priority misunderstanding, and mitigating regulatory SLA exposure to protect the firm's license-to-operate.
+The analysis focuses on identifying where operational inertia originates, pinpointing stage bottlenecks, evaluating control check remediation cycle times, detecting priority misunderstanding, and mitigating regulatory SLA exposure to protect the firm's license-to-operate.
 
 ## Objective
 
@@ -102,7 +102,7 @@ The analysis revealed that while aggregate breach rates appeared low (**2.19% In
 
 Granular stage profiling identified **Analyst Review** as the primary operational bottleneck, absorbing **48.59% of total workflow hours** and trapping **74.6% of active Work-In-Progress (WIP)** cases.
 
-Control assessment diagnostics showed a **5.13% fail rate**, with **PEP & Sanctions Screening** creating the largest drag—taking up to **3.05 days (73.25 hours)** per profile exception. Furthermore, tagging Low-Risk cases as "Urgent" artificially spiked their escalation rates from **0.0% to 29.9%**, driving average escalation dwell time to **47.46 hours**.
+Control assessment diagnostics showed a **5.13% fail rate**, with **PEP & Sanctions Screening** creating the largest drag, taking up to **3.05 days (73.25 hours)** per profile exception. Furthermore, tagging Low-Risk cases as "Urgent" artificially spiked their escalation rates from **0.0% to 29.9%**, driving average escalation dwell time to **47.46 hours**.
 
 The project translated these insights into three strategic priorities: **automating first-line PEP screening triage, enforcing system-driven priority governance, and deploying a dedicated regulatory tail-risk remediation taskforce**.
 
