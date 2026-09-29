@@ -1,4 +1,4 @@
-# Operational Lifecycle & Compliance SLA Optimization
+# Compliance Process Optimisation & Operational Risk Monitoring
 
 > Analysed operational lifecycles and control check bottlenecks across investor onboarding workflows to eliminate regulatory SLA breach risks and optimize operational capacity.
 
