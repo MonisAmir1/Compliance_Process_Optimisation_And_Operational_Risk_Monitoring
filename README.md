@@ -2,7 +2,7 @@
 
 > Analysed operational lifecycles and control check bottlenecks across investor onboarding workflows to eliminate regulatory SLA breach risks and optimize operational capacity.
 
-## **View the Full Project →**
+## **View the Full Project → https://monisamir1.github.io/projects/compliance-process-optimisation-operational-risk-monitoring**
 
 ## About the Project
 
@@ -114,4 +114,4 @@ This project uses a **real-world synthetic dataset** created specifically for po
 
 The complete case study contains the detailed business context, analytical approach, findings, strategic recommendations, expected business impact, technical implementation, dashboard, and lessons learned.
 
-## **View the Full Project →**
+## **View the Full Project → https://monisamir1.github.io/projects/compliance-process-optimisation-operational-risk-monitoring**
